@@ -1,0 +1,7 @@
+Producto: Id,  Nombre, Precio, Cantidad
+
+Ventana agregar solo sera para Agregar producto
+
+Inventario ira el CRUD sin el Registrar
+
+Corte sera para realizar el corte diario
